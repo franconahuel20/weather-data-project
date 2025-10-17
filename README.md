@@ -1,11 +1,6 @@
 A **production-ready, end-to-end weather data engineering pipeline** that automates extraction, transformation, modeling, and visualization. Built using **Airflow**, **DBT**, **PostgreSQL**, **Docker**, and **Superset**.  
 
 ---
-
-## 📊 Live Dashboard Preview
-
-![Dashboard Overview](docs/dashboard/dashboard_overview.jpg)
-
 ### Key Metrics & Visualizations
 - 🌡️ Temperature & humidity trends (hourly/daily)
 - 🌬️ Wind speed & atmospheric pressure analysis
