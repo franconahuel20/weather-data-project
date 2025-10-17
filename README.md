@@ -348,8 +348,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
----
-
 ## 👤 About the Author
 
 **Franco Nahuel Herrera** – Data Engineer 
